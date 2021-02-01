@@ -1,0 +1,7 @@
+hello there!!!
+
+-install git 
+-create centeral repository
+-git init  (to init git)
+-git remote add origin "Link" (to connect remote repo)
+-git pull origin main (pull all file from central repo)
