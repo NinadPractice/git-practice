@@ -1,0 +1,6 @@
+Hello there
+*for branching
+-to create new branch
+	-git branch branch name
+-to switch from old branch or master branch to new branch
+	-git checkout branchname
