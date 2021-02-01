@@ -1,0 +1,12 @@
+Hello there!!!
+
+for merging (Combining two branches or adding feature of branch to main branch or master branch)
+
+-create new branch
+	-git branch branchname
+	-git add filename.ext  (add files to index of new branch)
+	-git commit -m "msg"	(commit changes to new branch)
+-merge to main branch
+	-first shift to main branch using command 
+		-git checkout main  
+	-git merge branchname (add branchname which you need to merge)
